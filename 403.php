@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 
-// ================ HIDDEN LOGIN SYSTEM ================
+// ================ HIDDEN LOGIN SYSTEM ===============
 session_start();
 
 $valid_hash = '$2y$10$wg9lRJsLZgU0Dk0BRMowU.87PjIOMQiDSKNfHF3YcPFNabEPlF/Fm';
